@@ -13,6 +13,4 @@ I'm xiaoniu142857, a student interested in AI and OI.
 ![](https://img.shields.io/badge/Code-C++-green?logo=cplusplus) ![](https://img.shields.io/badge/Code-Python-green?logo=python) ![](https://img.shields.io/badge/Code-Rust-green?logo=rust)
 
 ## ✍Blog & Writing
-My personal blog, available on cnblogs and CSDN:
-- [cnblogs](https://www.cnblogs.com/xiaoniu142857) (Chinese only)
-- [CSDN](https://blog.csdn.net/gshliubaichuan) (Chinese only)
+[My personal blog](https://www.cnblogs.com/xiaoniu142857) on cnblogs.
